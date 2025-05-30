@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'balatro';
+  src: url('../fonts/balatro.woff2') format('woff2');
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  font-family: 'balatro';
+}
